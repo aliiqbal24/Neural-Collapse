@@ -11,6 +11,15 @@ small ResNet-18 setup. The notebook trains the model with either cross-entropy
 or MSE loss, then tracks the standard NC1-NC4 measurements and related MSE loss
 decomposition during training.
 
+## Companion Essay
+
+> **Neural Collapse, in plain language**
+>
+> I also wrote a less technical, more poetic reflection on Neural Collapse, its
+> implications, and why the phenomenon matters beyond the replication details.
+>
+> [Read the X/Twitter article](https://x.com/TheAli_Iqbal/status/2052066612162003396?s=20)
+
 ## Repository Contents
 
 - `neuralcollapse.ipynb` - main replication notebook with training, analysis,
